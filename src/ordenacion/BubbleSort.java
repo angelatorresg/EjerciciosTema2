@@ -26,7 +26,7 @@ public class BubbleSort {
 	}
 
 	public static void main(String[] args) {
-		System.out.println(Arrays.toString(ordenar(new String[] {"Adrián", "Juan", "Alberto", "Marcos"})));
+		System.out.println(Arrays.toString(ordenar(new String[] {"Adrián", "Juan", "Alberto", "Marcos", "María"})));
 	}
 
 }
