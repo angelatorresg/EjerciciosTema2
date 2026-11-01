@@ -25,5 +25,6 @@ public class Divisores {
 		System.out.println(contarDivisores(12));
 		System.out.println(contarDivisores(5));
 		System.out.println(contarDivisores(27));
+		System.out.println(contarDivisores(247));
 	}
 }
